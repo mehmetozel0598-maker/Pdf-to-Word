@@ -1,0 +1,4 @@
+PDF'DEN WORD'E – TABLET/TELEFON UYGULAMASI (Sürüm 1.0)
+
+Bu klasördeki dosyaları GitHub deposuna yükleyin, Pages'i açın ve tablette adresi açıp ana ekrana ekleyin.
+İlk açılıştan sonra internetsiz çalışır. PDF'ler yalnızca cihazda işlenir.
